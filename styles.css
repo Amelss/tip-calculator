@@ -1,0 +1,26 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: rgb(221,251,250);
+    background: linear-gradient(90deg, rgba(221,251,250,1) 0%, rgba(73,201,201,1) 100%);
+}
+
+button {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+input{
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid lightblue;
+}
+
+.calculator{
+    background: white;
+   
+    padding: 10px;
+   
+    text-align: center;
+}
